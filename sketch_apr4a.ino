@@ -75,7 +75,7 @@ digitalWrite(in2, HIGH); //Right Motor backword Pin
 
 digitalWrite(in3, LOW);  //Left Motor backword Pin 
 
- digitalWrite(in4, HIGH); //Left Motor forword Pin 
+digitalWrite(in4, HIGH); //Left Motor forword Pin 
 
 }
 
